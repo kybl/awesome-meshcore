@@ -39,8 +39,6 @@ or IoT sensor networks.
 
 - [MeshCore.co.uk](https://meshcore.co.uk/) - The original homepage
 - [Original Discord](https://discord.gg/ZVH2ujy9ex)
-- [YouTube](https://www.youtube.com/@meshcore-official)
-- [YouTube - Andy Kirby](https://www.youtube.com/@andykirby) (Meshos developer)
 - [Facebook](https://www.facebook.com/MeshCoreOfficial)
 - [Video: MeshCore Companion Flashing (the comms channel)](https://redirect.invidious.io/watch?v=ems9_XvdPX8) (Also on [youtube](https://youtu.be/ems9_XvdPX8))
 - [Video: Using the official Meshcore App (the comms channel)](https://redirect.invidious.io/watch?v=PeThXmxLE4k) (Also on [youtube](https://youtu.be/PeThXmxLE4k))
@@ -82,7 +80,6 @@ or IoT sensor networks.
 | [Spectra](https://forge.hackers.town/Wrewdison/Spectra) | Spectra is a bridge for Mesh Radios like MeshCore and Meshtastic, powered by Veilid. | |
 | [MeshCore Insights](https://github.com/BomBefok/MeshcoreInsights) ![GitHub Repo stars](https://img.shields.io/github/stars/BomBefok/MeshcoreInsights?style=social) | A Graphical software interface to interact with Meshcore companion nodes. | ![GitHub last commit](https://img.shields.io/github/last-commit/BomBefok/MeshcoreInsights) |
 | [Yours](https://github.com/STCisGOOD/yours-x-lunarcore) ![GitHub Repo stars](https://img.shields.io/github/stars/STCisGOOD/yours-x-lunarcore?style=social) | Encrypted P2P messaging over LoRa mesh, using Lunacore firmware | ![GitHub last commit](https://img.shields.io/github/last-commit/STCisGOOD/yours-x-lunarcore) |
-| [MeshOS for Android](https://github.com/andymux/meshos-releases) ![GitHub Repo stars](https://img.shields.io/github/stars/andymux/meshos-releases?style=social) | MeshOS for Android | ![GitHub last commit](https://img.shields.io/github/last-commit/andymux/meshos-releases) |
 | [Meshy](https://codeberg.org/sesivany/meshy) | a GTK4/libadwaita client for MeshCore. The goal, to provide the best Linux experience | |
 | [MeshCore HA UI](https://github.com/Ratty7198/MeshCore-HA-UI) ![GitHub Repo stars](https://img.shields.io/github/stars/Ratty7198/MeshCore-HA-UI?style=social) | A companion HACS integration that adds a full-featured dashboard for your MeshCore mesh network in Home Assistant (requires meshcore-ha) | ![GitHub last commit](https://img.shields.io/github/last-commit/Ratty7198/MeshCore-HA-UI) |
 | [Meshcute](https://github.com/MadScientistCH/meshcute) ![GitHub Repo stars](https://img.shields.io/github/stars/MadScientistCH/meshcute?style=social) | Meshcute is a universal toolbox for what you need when having a Meshcore or Meshtastic meeting | ![GitHub last commit](https://img.shields.io/github/last-commit/MadScientistCH/meshcute) |
