@@ -309,6 +309,9 @@ In addition, there are e.g.:
 - [Telegram](https://t.me/meshcorenet)
 - [Discord](https://discord.com/channels/1343693475589263471/1345472768669384714)
 
+#### Norway
+- [Discord](https://discord.gg/BHCVyEBd)
+
 #### Russia
 - [Moscow Telegram group](https://t.me/meshcoremoscow)
 
