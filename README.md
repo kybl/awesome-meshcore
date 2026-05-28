@@ -343,6 +343,7 @@ In addition, there are e.g.:
 - [Chicagoland Mesh Discord](https://chimesh.org/discord)
 - [CT Mesh Discord](https://discord.gg/m4F328as3K)
 - [Missouri Mesh Discord](https://missourimesh.org/discord)
+- [NTXMesh Discord](https://discord.gg/nGeQ8cbSM3)
 - [Spokane Mesh Discord](https://discord.gg/VzFcvSxxyr)
 - [West coast Mesh Discord](https://discord.gg/wcmesh)
 
