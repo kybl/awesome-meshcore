@@ -274,6 +274,7 @@ or IoT sensor networks.
   - [Minnesota/St Paul Mesh](https://mspmesh.org/)
   - [Missouri Mesh](https://missourimesh.org/)
   - [Meshcore Texas](https://meshcoretx.net/)
+  - [NTXMesh](https://ntxmesh.com/) - Dallas-Fort Worth and surrounding areas.
   - [Nevada Mesh](https://nvme.sh/)
   - [North Dakota Mesh](https://nodakmesh.org/)
   - [Pioneer Valley Mesh](https://pvmesh.org/) 
@@ -342,6 +343,7 @@ In addition, there are e.g.:
 - [Chicagoland Mesh Discord](https://chimesh.org/discord)
 - [CT Mesh Discord](https://discord.gg/m4F328as3K)
 - [Missouri Mesh Discord](https://missourimesh.org/discord)
+- [NTXMesh Discord](https://discord.gg/nGeQ8cbSM3)
 - [Spokane Mesh Discord](https://discord.gg/VzFcvSxxyr)
 - [West coast Mesh Discord](https://discord.gg/wcmesh)
 
