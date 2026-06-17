@@ -130,6 +130,7 @@ or IoT sensor networks.
 | [MC-T5-Pro](https://github.com/dz0ny/meshcore-t5-epaper-s3-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/dz0ny/meshcore-t5-epaper-s3-pro?style=social) | **LilyGo T5 ePaper S3 Pro**  A paper-like handheld MeshCore communicator  | ![GitHub last commit](https://img.shields.io/github/last-commit/dz0ny/meshcore-t5-epaper-s3-pro) |
 | [BlackJack-OS](https://github.com/Robert-Proaps/BlackJackOS-BJOS-) ![GitHub Repo stars](https://img.shields.io/github/stars/Robert-Proaps/BlackJackOS-BJOS-?style=social) | A toolbox and platform to create apps and functionality for LilyGo **T-Deck** and **T-Deck Plus**. | ![GitHub last commit](https://img.shields.io/github/last-commit/Robert-Proaps/BlackJackOS-BJOS-) |
 | [SigurdOS T-Deck](https://github.com/hermes-gadget/SigurdOS-tdeck) ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-gadget/SigurdOS-tdeck?style=social) | A standalone GPL-3.0-or-later licensed companion app for LilyGo T-Deck. | ![GitHub last commit](https://img.shields.io/github/last-commit/hermes-gadget/SigurdOS-tdeck) |
+| [InkCore](https://codeberg.org/todd-herbert/InkCore) | AI-Free BLE-companion firmware for E-Ink devices. | |
 
 
 ## Closed Source Firmware
