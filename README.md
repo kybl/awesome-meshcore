@@ -240,6 +240,8 @@ or IoT sensor networks.
   - [MeshCore Wales](https://meshcore.wales/)
 - Hungary
   - [Meshcore Hungary](https://mc868.hu/) 
+- Kazakhstan
+  - [Meshcore Kazakhstan](https://meshcore.kz/) 
 - Ireland
   - [Meshcore Ireland](https://loraproject.ie/)
   - [Mayo Mesh](https://mayomesh.net/)
@@ -338,15 +340,19 @@ In addition, there are e.g.:
 #### France
 - [MeshCore France Discord](https://discord.gg/GNAfMf7nVw)
 
-#### Ireland
-- [Mesh Radio Ireland (N&S) Discord](https://discord.gg/kraQFkpU)
-
 #### Germany
 - Matrix room "[MeshCore DE](https://matrix.to/#/#meshcore-netzwerk-de:matrix.org)" inside matrix space "[Mesh Netzwerke DE](https://matrix.to/#/#mesh-netzwerke-de:matrix.org)"
 - Signal group "[MeshCore-DE](https://signal.group/#CjQKIFhhdRM1Aeju45MYU8CWOkytMM8E741caAtrSvkDRaJ3EhBu5zU7KUA4w3ad35lIi8Su)"
 - Telegram group "[MeshCore DE](https://t.me/meshcorede)"
 - Discord "[MeshCore DE](https://discord.gg/uTMJQhh2P5)"
 - [WhatsApp group](https://chat.whatsapp.com/KDintomf4QoCu2GkPrnIn1)
+
+#### Ireland
+- [Mesh Radio Ireland (N&S) Discord](https://discord.gg/kraQFkpU)
+
+#### Kazakhstan
+- [Kazakhstan Telegram group](https://t.me/MeshCoreKZ)
+
 
 #### Netherlands
 - [Forum](https://forum.meshcore-net.nl/)
